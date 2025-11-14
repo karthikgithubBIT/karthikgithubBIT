@@ -15,7 +15,6 @@
 🎓 Computer Science Graduate (BIT Bangalore)  
 💻 Full-Stack Developer (MERN + Django)  
 ⚡ Passionate about solving problems & building real-world apps  
-🌱 Currently exploring Cloud (AWS), Docker, DevOps  
 🚀 Love open-source + learning new technologies  
 
 ---
@@ -53,42 +52,34 @@
 ### 🌟 **1. Customer Churn Prediction (ML + Flask)**  
 ✔ EDA, Feature Engineering, SMOTE  
 ✔ RandomForest + Deep Learning  
-✔ Web UI + SMS Alert System  
+✔ Web UI + Automatic SMS Alert  
 
 ### 🌟 **2. Full-Stack MERN App**  
 ✔ Login/Register + JWT  
 ✔ Dashboard + CRUD  
 ✔ Deployed on Vercel  
 
-### 🌟 **3. Django Blog Website**  
-✔ Admin Panel  
-✔ User Auth + CRUD  
-✔ SQLite / MySQL support  
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/karthik-d-0797a6244">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:karthikdabhi78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/karthikgithubBIT/karthikgithubBIT/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/karthikgithubBIT/karthikgithubBIT/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
-*(I will help you set this up — GitHub needs a workflow file.)*
+> To enable this animation you must add a GitHub Actions workflow file (see below).
 
 ---
 
