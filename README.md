@@ -15,7 +15,7 @@
 🎓 Computer Science Graduate (BIT Bangalore)  
 💻 Full-Stack Developer (MERN + Django)  
 ⚡ Passionate about solving problems & building real-world apps  
-🚀 Love open-source + learning new technologies  
+🚀 learning new technologies  
 
 ---
 
