@@ -6,8 +6,9 @@
 <h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Graduate;Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Graduate;Full+Stack+Developer;Tech+Explorer+%26+Problem+Solver" />
 </p>
+
 
 ---
 
