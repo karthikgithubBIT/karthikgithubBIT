@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Karthik  
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Banner"/>
 </p>
+
+<h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Graduate;Full+Stack+Developer;Tech+Explorer;Problem+Solver;Always+Learning+New+Things" />
@@ -50,18 +52,21 @@
 
 ## 📌 Featured Projects
 
-### 🌟 **Customer Churn Prediction (ML + Flask)**  
+### 🌟 Customer Churn Prediction (ML + Flask)  
+
 - Performed **EDA, Feature Engineering, Data Cleaning, SMOTE**  
 - Built **RandomForest & Deep Learning models**  
-- **Flask Web UI** + optional **SMS alert system**  
+- Developed a **Flask Web UI**  
+- Integrated optional **SMS alert system**  
 - End-to-end deployment ready  
 
 ---
 
-### 🌟 **Full-Stack MERN Application**  
-- JWT Authentication (Login/Register)  
-- User Dashboard + CRUD Features  
-- API built with **Node.js + Express + MongoDB**  
+### 🌟 Full-Stack MERN Application  
+
+- **JWT Authentication** (Login / Register)  
+- User Dashboard with full **CRUD** features  
+- Backend API using **Node.js + Express + MongoDB**  
 - **Deployed on Vercel**  
 
 ---
